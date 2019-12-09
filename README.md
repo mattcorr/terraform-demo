@@ -1,6 +1,6 @@
 # Summary
 
-This git was created as the source for the code in this blog post.
+This git was created as the source for the code in [this blog post](https://www.intrepidintegration.com/tech/how-to-reference-data-objects-with-terraform/).
 
 Feel freed to clone and have a play with some `for_each` commands in terraform.
 
