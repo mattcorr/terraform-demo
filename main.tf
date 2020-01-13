@@ -19,6 +19,10 @@ resource "aws_sqs_queue" "message_queue" {
 }
 */
 
+resource "aws_s3_bucket" "test" {
+  name = "test"
+}
+
 
 /*
 resource "aws_sqs_queue" "message_queue" {
